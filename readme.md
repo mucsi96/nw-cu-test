@@ -1,7 +1,7 @@
 # Install
 
 ```
-git clone 
+git clone git@github.com:mucsi96/nw-cu-test.git
 cd nw-cu-test
 npm i
 npm start -s

@@ -1,0 +1,19 @@
+{
+  "name": "nw-cu-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "chromedriver": "^2.21.2",
+    "cucumber": "^1.0.0",
+    "nightwatch": "^0.9.1",
+    "nightwatch-cucumber": "^3.0.0",
+    "selenium-server": "^2.53.0"
+  },
+  "scripts": {
+    "start": "node_modules/.bin/nightwatch"
+  },
+  "author": "Igor Mucsicska <mucsi_96@yahoo.com>",
+  "license": "MIT"
+}

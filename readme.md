@@ -1,6 +1,8 @@
 # Install
 
 ```
+git clone 
+cd nw-cu-test
 npm i
 npm start -s
 ```
